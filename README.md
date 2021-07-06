@@ -1,1 +1,1 @@
-# MERN-Stack---Building-your-owwn-instagram
+# MERN-Stack---Building-your-own-instagram
