@@ -19,6 +19,7 @@ const transporter = nodemailer.createTransport(sendgridTransport({
     }
 }))
 
+// Signup
 router.post('/signup',(req,res)=>{
   const {name,email,password,pic} = req.body 
   if(!email || !password || !name){
